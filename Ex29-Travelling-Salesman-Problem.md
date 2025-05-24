@@ -1,4 +1,4 @@
-# Ex29 Travelling Salesman Problem
+# Ex 6(D) Travelling Salesman Problem
 ## DATE:
 ## AIM:
 To write a C Program to implement Travelling Salesman Problem for finding shortest path.
@@ -13,8 +13,8 @@ To write a C Program to implement Travelling Salesman Problem for finding shorte
 ```
 /*
 Program to implement Travelling Salesman Problem for finding shortest path
-Developed by: 
-RegisterNumber:  
+Developed by: Shree Lekha.S
+RegisterNumber: 212223110052
 */
 ```
 
