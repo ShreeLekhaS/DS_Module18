@@ -1,4 +1,4 @@
-# Ex26 Prim’s Algorithm
+# Ex 6(A) Prim’s Algorithm
 ## DATE:
 ## AIM:
 To write a C program to implement Prim's Algorithm for finding Total Cost of tree.
@@ -14,8 +14,8 @@ To write a C program to implement Prim's Algorithm for finding Total Cost of tre
 ```
 /*
 Program to implement Prim's Algorithm
-Developed by: 
-RegisterNumber:  
+Developed by: Shree Lekha.S
+RegisterNumber: 212223110052
 */
 ```
 
