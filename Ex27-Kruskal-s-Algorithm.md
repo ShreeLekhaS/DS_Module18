@@ -1,4 +1,4 @@
-# Ex27 Kruskal’s Algorithm
+# Ex 6(B) Kruskal’s Algorithm
 ## DATE:
 ## AIM:
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
@@ -14,8 +14,8 @@ To write a C program to implement Kruskal's Algorithm for finding minimum cost
 ```
 /*
 Program to implement Kruskal's Algorithm
-Developed by: 
-RegisterNumber:  
+Developed by: Shree Lekha.S
+RegisterNumber: 212223110052
 */
 ```
 
