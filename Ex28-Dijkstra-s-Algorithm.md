@@ -1,5 +1,5 @@
 # Ex 6(C) Dijkstra’s Algorithm
-## DATE: 03.04.2025
+## DATE: 03.05.2025
 ## AIM:
 To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 
