@@ -1,5 +1,5 @@
 # Ex 6(D) Travelling Salesman Problem
-## DATE:  10.04.2025
+## DATE:  10.05.2025
 ## AIM:
 To write a C Program to implement Travelling Salesman Problem for finding shortest path.
 ## Algorithm
